@@ -1,6 +1,3 @@
-# docker-template
-Docker and Compose templates for learners of programming 
-
 CREATE A DIR IN LOCAL MACHINE    TO DELETE A DIRECTORY   TO DELETE A NON-EMPTY DIRECTORY
 $   mkdir "DIRNAME"               $ rmdir "Dirname"       $ sudo rm -rf "DIR NAME"
 
